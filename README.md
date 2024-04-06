@@ -1,0 +1,6 @@
+- Hi, I’m NearRaindrop116
+- I’m interested in Portal
+- I’m currently learning Unity Development
+- I’m available to work on beginer scripting/coding preferably c# or Lua [Not Available]
+- How to reach me [Not Available]
+- Pronouns: He/Him
