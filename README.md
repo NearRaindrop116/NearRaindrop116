@@ -1,6 +1,6 @@
 - Hi, I’m NearRaindrop116
-- I’m interested in Portal
-- I’m currently learning Unity Development
-- I know a bit of c# and Lua
+- I was learning Unity
+- I’m currently learning Godot
+- I know a bit of c#, Lua, and GDScript
 - How to reach me [Not Available]
 - Pronouns: He/Him
