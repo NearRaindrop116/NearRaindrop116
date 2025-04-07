@@ -2,5 +2,5 @@
 - I was learning Unity
 - I’m currently learning Godot
 - I know a bit of c#, Lua, and GDScript
-- How to reach me [Not Available]
+- How to reach me [Gravatar](https://gravatar.com/nearraindrop116)
 - Pronouns: He/Him
